@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+A Flutter and Firebase instant messaging app with the following features: Firebase auth, Cloud FireStore, searching for a specific user by user name, and one-on-one chat with other users.
 
 ## Getting Started
 
